@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Smart Inventory & Sales Analyzer",
+  "description": "A comprehensive sales and inventory management dashboard with AI-powered insights, gross profit analysis, and interactive data visualization.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
